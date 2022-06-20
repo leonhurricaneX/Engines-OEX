@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+    <!-- strings.xml -->
+    <string name="engines_oex">
+
+Engines OEX 3.0
+</string>
+    <string name="app_name">   Engines OEX</string>
+
+    <string name="arsan_gophe">
+        1.Ademete \n
+        2.Arasan \n
+        3.Baislicka \n
+        4.Blue_Marlin\n
+        5.Ethereal \n
+        6.Fire \n
+        7.FoxSEE \n
+        8.Growing_Fruit \n
+        9.Halogen \n
+        10.Minic \n
+        11.Pawn \n
+        12.RubiChess \n
+        13.Scorpio \n
+        14.Stash \n
+        15.TantaBus \n
+        16.The Huntsman \n
+        17.WallEye \n
+        18.Demolito \n
+        19.Odonata \n
+        20.Rustic_Alpha \n
+        21.Stockfish 10
+        \n....
+        \n.....
+        \n......
+        \n.
+</string>
+
+</resources>
