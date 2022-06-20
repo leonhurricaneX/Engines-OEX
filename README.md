@@ -5,7 +5,7 @@
  The App uses OEX library by Gklab.
   The App UI is build using Figma.
   
-  <p align="center"><img src="https://i.postimg.cc/fWXq95X1/engine-OEX.gif"></p>
+ [![githubgif.gif](https://i.postimg.cc/6qbQwRwX/githubgif.gif)](https://postimg.cc/N2TtkK5J)
   
   To create apk.
   ./gradlew assembleDebug
